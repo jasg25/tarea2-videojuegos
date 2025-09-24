@@ -1,0 +1,5 @@
+Programación de Videojuegos
+
+Esta materia se enfoca en el desarrollo y programación de videojuegos, 
+incluyendo el diseño de mecánicas de juego, gráficos, física, 
+inteligencia artificial y optimización de rendimiento.
